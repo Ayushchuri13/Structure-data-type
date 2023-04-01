@@ -11,3 +11,8 @@ Lets understand this with an example , there is a student variable that may have
 How to create a structure?
 
 To create a structure in C, the struct keyword is used followed by the tag name of the structure. Then the body of the structure is defined, in which the required data members (primitive or user-defined data types) are added
+
+
+output:
+
+![Screenshot 2023-04-01 224512](https://user-images.githubusercontent.com/125973911/229305487-78fbaeb1-27a8-4c29-bf60-9a8440addb41.png)
